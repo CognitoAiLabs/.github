@@ -1,1 +1,1 @@
-![Banner](assets/banner)
+![Banner](bannerv2)
